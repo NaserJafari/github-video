@@ -1,5 +1,6 @@
 Hallo,
 
-dit is tekst 2
+Dit is tekst 2.
 
-Doei.
+Doei
+
